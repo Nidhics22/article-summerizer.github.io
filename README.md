@@ -1,1 +1,1 @@
-# article-summerizer.github.io
+This application helps users to condense lengthy articles into concise summaries, saving time and improving comprehension for users. They provide efficient information consumption and aid in content evaluation for quick decision-making.
